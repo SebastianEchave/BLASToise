@@ -17,3 +17,5 @@ Once both biopython and BLAST+ have been succesfully added to your operating sys
 * Make sure that, when utilizing the command tabs to execute BLAST+ functions, you also specify the directory path for the "Python test Director" folder.
 * Once the data base is created with "makeblastdb", you should not need to use this function anymore. However, you must execute the "blastn" function once for **each of your genetic targets**.
 * Similarly, since we are creating four BLAST files, you must also make a four target .csv files (one for each target)
+
+Thanks for following through! 
